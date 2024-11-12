@@ -1,6 +1,7 @@
 # Documentation for Unity and Python Notebook
 
 This readme is detailing a couple of things that are important for the execution of the project
+The Link to the paper as well as my presentation can be found at https://collab.dvb.bayern/display/TUMinfar/%5B23WS+-+BA%5D+Action+Recognition+in+Virtual+Reality
 
 ## Unity
 
